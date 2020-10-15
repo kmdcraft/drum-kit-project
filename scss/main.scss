@@ -21,22 +21,41 @@ h1 {
 }
 
 .w {
-   background-image: url("../dist/img/tom1.png");
+   background-image: url("img/tom1.png");
+   background-size: cover;
    
   
 }
 
-.a {}
+.a {
+   background-image: url("img/tom2.png");
+   background-size: cover;
+}
 
-.s {}
+.s {
+   background-image: url("img/tom3.png");
+   background-size: cover;
+}
 
-.d {}
+.d {
+   background-image: url("img/tom4.png");
+   background-size: cover;
+}
 
-.j {}
+.j {
+   background-image: url("img/crash.png");
+   background-size: cover;
+}
 
-.k {}
+.k {
+   background-image: url("img/kick.png");
+   background-size: cover;
+}
 
-.l {}
+.l {
+   background-image: url("img/snare.png");
+   background-size: cover;
+}
 
 .set {
    margin: 10% auto;
